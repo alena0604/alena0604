@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://www.credly.com/badges/a30e907d-c072-4e59-bdd5-2ad61c3153a7">
-    <img src="images/aws_ml.png" width="auto" height="150"/>
+    <img src="images/aws-specialty.png" width="auto" height="150"/>
      </a>
 </div>
 
